@@ -1,0 +1,8 @@
+C:\Users\kwysz\Desktop\sem IV\Programowanie .NET\zajecia-2604\zajecia-2604\bin\Debug\zajecia-2604.exe.config
+C:\Users\kwysz\Desktop\sem IV\Programowanie .NET\zajecia-2604\zajecia-2604\bin\Debug\zajecia-2604.exe
+C:\Users\kwysz\Desktop\sem IV\Programowanie .NET\zajecia-2604\zajecia-2604\bin\Debug\zajecia-2604.pdb
+C:\Users\kwysz\Desktop\sem IV\Programowanie .NET\zajecia-2604\zajecia-2604\obj\Debug\zajecia-2604.csproj.AssemblyReference.cache
+C:\Users\kwysz\Desktop\sem IV\Programowanie .NET\zajecia-2604\zajecia-2604\obj\Debug\zajecia-2604.csproj.SuggestedBindingRedirects.cache
+C:\Users\kwysz\Desktop\sem IV\Programowanie .NET\zajecia-2604\zajecia-2604\obj\Debug\zajecia-2604.csproj.CoreCompileInputs.cache
+C:\Users\kwysz\Desktop\sem IV\Programowanie .NET\zajecia-2604\zajecia-2604\obj\Debug\zajecia-2604.exe
+C:\Users\kwysz\Desktop\sem IV\Programowanie .NET\zajecia-2604\zajecia-2604\obj\Debug\zajecia-2604.pdb
